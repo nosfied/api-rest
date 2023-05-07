@@ -19,6 +19,7 @@ import fotoRoutes from './routes/fotoRoutes';
 const whiteList = [
   'https://react2.souprog.com',
   'http://localhost:3001',
+  'http://localhost:3000',
 ];
 
 const corsOptions = {
